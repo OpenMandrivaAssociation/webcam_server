@@ -11,7 +11,6 @@ Source0: %{url}/%{name}-%{version}.tar.bz2
 Source1: %name.bz2
 License: GPL
 Group: System/Kernel and hardware
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: jpeg-devel
 Prefix: /usr
 URL: http://donn.dyndns.org/portalofnnod/
