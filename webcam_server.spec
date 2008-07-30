@@ -1,6 +1,6 @@
 %define name webcam_server
 %define version 0.40
-%define release %mkrel 5
+%define release %mkrel 7
 %define url http://donn.dyndns.org/portalofnnod
 
 Summary: A server to stream webcam video or snapshots
