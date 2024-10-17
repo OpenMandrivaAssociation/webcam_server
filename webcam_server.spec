@@ -14,7 +14,7 @@ Group: System/Kernel and hardware
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: jpeg-devel
 Prefix: /usr
-URL: http://donn.dyndns.org/portalofnnod/
+URL: https://donn.dyndns.org/portalofnnod/
 
 %description
 webcam_server  is  a  server  daemon that can stream frames
