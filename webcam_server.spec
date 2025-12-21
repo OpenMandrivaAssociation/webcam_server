@@ -12,6 +12,11 @@ Source1: %name.bz2
 License: GPL
 Group: System/Kernel and hardware
 BuildRoot: %{_tmppath}/%{name}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: jpeg-devel
 Prefix: /usr
 URL: https://donn.dyndns.org/portalofnnod/
